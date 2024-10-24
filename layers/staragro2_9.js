@@ -1,0 +1,1 @@
+var json_staragro2_9 = {"type":"FeatureCollection","name":"staragro2_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"sn":"true","y":26.52264,"x":87.44685},"geometry":{"type":"Point","coordinates":[87.44684781,26.52264161]}}]}
